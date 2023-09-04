@@ -1,0 +1,10 @@
+.on {
+    background: orange;
+}
+
+div {
+    padding: 50px;
+    text-align: center;
+    border-style: solid;
+    font-size: 2em;
+}
